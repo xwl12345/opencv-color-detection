@@ -1,0 +1,29 @@
+# Visual Studio 缓存
+.vs/
+*.suo
+*.user
+
+# 编译中间产物与输出目录
+Int/
+Output/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# 编译生成的文件
+*.obj
+*.iobj
+*.ipdb
+*.pdb
+*.ilk
+*.idb
+*.exe
+*.tlog
+*.log
+*.recipe
+*.module.json
+*.json.command
+
+# 第三方库（体积大，不入库，在 README 中说明如何自行配置）
+ThirdParty/

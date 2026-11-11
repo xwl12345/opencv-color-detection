@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="opencv-color-detection/opnecv_demo.vcxproj" Id="533df24b-c1b1-4109-90ed-89cbdce40f28" />
+</Solution>
